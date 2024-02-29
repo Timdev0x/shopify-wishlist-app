@@ -2,7 +2,7 @@
 
 client_id = "f40ad526478302ca92a4f19ca8abcf10"
 name = "wishlist-app"
-application_url = "https://obituaries-waters-electrical-informed.trycloudflare.com"
+application_url = "https://fig-units-cedar-drove.trycloudflare.com"
 embedded = true
 
 [build]
@@ -16,9 +16,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://obituaries-waters-electrical-informed.trycloudflare.com/auth/callback",
-  "https://obituaries-waters-electrical-informed.trycloudflare.com/auth/shopify/callback",
-  "https://obituaries-waters-electrical-informed.trycloudflare.com/api/auth/callback"
+  "https://fig-units-cedar-drove.trycloudflare.com/auth/callback",
+  "https://fig-units-cedar-drove.trycloudflare.com/auth/shopify/callback",
+  "https://fig-units-cedar-drove.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
